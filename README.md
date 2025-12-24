@@ -17,10 +17,7 @@ olx-clone/
 │   ├── pages/           # Next.js routes (Index, Post-Ad, etc.)
 │   ├── styles/          # CSS Modules and Global Design System
 │   └── types/           # TypeScript definitions
-├── process_data.js      # Script to transform raw .txt data into optimized JSON
-├── ads data.txt         # Raw source data provided
-├── categories.txt       # Raw category hierarchy
-└── categoryFields.txt   # Raw dynamic form field definitions
+
 ```
 
 ## 🚀 Approach & Rationale
