@@ -1,0 +1,167 @@
+.header {
+    background-color: #f7f8f9;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.headerContent {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.topRow {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-lg);
+}
+
+.logo {
+    font-size: 32px;
+    font-weight: 800;
+    color: var(--color-primary);
+    text-decoration: none;
+    font-family: var(--font-family-heading);
+}
+
+.searchSection {
+    flex: 1;
+    display: flex;
+    gap: var(--spacing-sm);
+    align-items: center;
+}
+
+.locationBox {
+    width: 280px;
+    height: 48px;
+    background: var(--color-white);
+    border: 2px solid var(--color-primary);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    padding: 0 12px;
+    gap: 8px;
+}
+
+.locationInput {
+    flex: 1;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: var(--color-text-main);
+}
+
+.mainSearchBox {
+    flex: 1;
+    height: 48px;
+    background: var(--color-white);
+    border: 2px solid var(--color-primary);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+.searchInput {
+    flex: 1;
+    border: none;
+    padding: 0 16px;
+    outline: none;
+    font-size: 16px;
+}
+
+.searchButton {
+    width: 48px;
+    height: 48px;
+    background-color: var(--color-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s;
+}
+
+.searchButton:hover {
+    background-color: #003d44;
+}
+
+.rightSection {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-lg);
+}
+
+.langToggle {
+    font-weight: 700;
+    font-size: 15px;
+    color: var(--color-primary);
+}
+
+.loginBtn {
+    font-weight: 700;
+    font-size: 16px;
+    text-decoration: underline;
+    color: var(--color-primary);
+}
+
+.sellBtn {
+    background: var(--color-white);
+    border-radius: 25px;
+    padding: 2px;
+    text-decoration: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.sellBtn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.sellBtnContent {
+    background: var(--color-white);
+    border: 4px solid;
+    border-image: linear-gradient(to right, #23e5db, #3a77ff, #ffce32) 1;
+    border-radius: 25px;
+    /* Note: border-image might clip this, but we use a wrapper */
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 6px 16px;
+    font-weight: 700;
+    color: var(--color-primary);
+    text-transform: uppercase;
+    font-size: 14px;
+}
+
+/* Fix for rounded border image */
+.sellBtn {
+    border: 5px solid transparent;
+    background: linear-gradient(var(--color-white), var(--color-white)) padding-box,
+        linear-gradient(to right, #23e5db, #3a77ff, #ffce32) border-box;
+    border-radius: 50px;
+    padding: 8px 16px;
+}
+
+.sellBtnContent {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.plusIcon {
+    font-size: 20px;
+}
+
+@media (max-width: 1024px) {
+    .locationBox {
+        width: 180px;
+    }
+}
+
+@media (max-width: 768px) {
+    .searchSection {
+        display: none;
+    }
+}

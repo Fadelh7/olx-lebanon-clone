@@ -1,0 +1,426 @@
+[
+  {
+    "id": "116651052",
+    "title": "Apartment For Rent in Achrafieh -Gym & Pool- شقة للايجار في الاشرفية",
+    "price": 3500,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15806247-240x180.jpeg",
+    "location": "Achrafieh",
+    "categoryId": 126,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 3500,
+      "area": 326,
+      "bathrooms": 5,
+      "bedrooms": "3"
+    }
+  },
+  {
+    "id": "116707068",
+    "title": "Penthouse for Rent In Achrafieh - شقة للأجار في الأشرفية",
+    "price": 5000,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15773816-240x180.jpeg",
+    "location": "Achrafieh",
+    "categoryId": 126,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 5000,
+      "area": 400,
+      "bathrooms": 3,
+      "bedrooms": "3"
+    }
+  },
+  {
+    "id": "116634121",
+    "title": "Sea View Apartment For Rent In Bouar",
+    "price": 499,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15401757-240x180.jpeg",
+    "location": "Bouar",
+    "categoryId": 126,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 499,
+      "area": 140,
+      "bathrooms": 2,
+      "bedrooms": "3"
+    }
+  },
+  {
+    "id": "116706453",
+    "title": "apartments for rent in rawche beirut شقق للايجار في روشة بيروت",
+    "price": 2999,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15770651-240x180.jpeg",
+    "location": "Rawche",
+    "categoryId": 126,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 2999,
+      "area": 450,
+      "bathrooms": 5,
+      "bedrooms": "4"
+    }
+  },
+  {
+    "id": "116712217",
+    "title": "Samsung Galaxy S25 Ultra 256GB Bundle Offer",
+    "price": 1030,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15800426-240x180.jpeg",
+    "location": "Mar Elias",
+    "categoryId": 9,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 1030
+    }
+  },
+  {
+    "id": "116702113",
+    "title": "xiaomi 15t pro 512gb used 5 days",
+    "price": 620,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15748919-240x180.jpeg",
+    "location": "Verdun",
+    "categoryId": 9,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 620
+    }
+  },
+  {
+    "id": "116704965",
+    "title": "15 pro 256gb silver 88%",
+    "price": 780,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15762917-240x180.jpeg",
+    "location": "Al Maarad",
+    "categoryId": 9,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 780
+    }
+  },
+  {
+    "id": "116656875",
+    "title": "REDMI 15 4G 1 year  Warranty",
+    "price": 145,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15518406-240x180.jpeg",
+    "location": "Tariq el Jdideh",
+    "categoryId": 9,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 145
+    }
+  },
+  {
+    "id": "116681687",
+    "title": "Jeita 385m2 | 150m2 Terrace | Prime Location | Brand New | EL",
+    "price": 225000,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15647392-240x180.jpeg",
+    "location": "Jeita",
+    "categoryId": 95,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 225000,
+      "area": 280,
+      "bathrooms": 3,
+      "bedrooms": "3"
+    }
+  },
+  {
+    "id": "116707234",
+    "title": "Penthouse, prime location, beirut, achrafieh/اشرفيه REF#DK130429",
+    "price": 7500000,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15774626-240x180.jpeg",
+    "location": "Achrafieh",
+    "categoryId": 95,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 7500000,
+      "area": 1000,
+      "bathrooms": 7,
+      "bedrooms": "5"
+    }
+  },
+  {
+    "id": "115408269",
+    "title": "New Sheileh 600m2 Duplex | Unique Property | Astonishing View |",
+    "price": 500000,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/9342780-240x180.jpeg",
+    "location": "Sehayleh",
+    "categoryId": 95,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 500000,
+      "area": 600,
+      "bathrooms": 5,
+      "bedrooms": "4"
+    }
+  },
+  {
+    "id": "116615943",
+    "title": "Hot deal, prime location,Sassine, Achrafieh/ساسين ,أشرفية REF#AM127319",
+    "price": 660000,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15306581-240x180.jpeg",
+    "location": "Achrafieh",
+    "categoryId": 95,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 660000,
+      "area": 305,
+      "bathrooms": 4,
+      "bedrooms": "3"
+    }
+  },
+  {
+    "id": "116163672",
+    "title": "Can -Am Ryker 900 cc 2020",
+    "price": 11500,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/12990475-240x180.jpeg",
+    "location": "Verdun",
+    "categoryId": 22,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 11500
+    }
+  },
+  {
+    "id": "116609155",
+    "title": "Royal Enfield",
+    "price": 5300,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15497028-240x180.jpeg",
+    "location": "Zouk Mikael",
+    "categoryId": 22,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 5300
+    }
+  },
+  {
+    "id": "116709858",
+    "title": "BMW GR 310",
+    "price": 3900,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15788603-240x180.jpeg",
+    "location": "Dawhet Aaramoun",
+    "categoryId": 22,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 3900
+    }
+  },
+  {
+    "id": "116471897",
+    "title": "BMW R 1250 GSA -2021 - 40 years anniversary",
+    "price": 21800,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/14580593-240x180.jpeg",
+    "location": "Dora",
+    "categoryId": 22,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 21800
+    }
+  },
+  {
+    "id": "116703946",
+    "title": "Heaters with safety",
+    "price": 8,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15757881-240x180.jpeg",
+    "location": "Tallet el Khayat",
+    "categoryId": 162,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 8
+    }
+  },
+  {
+    "id": "116613066",
+    "title": "electric wall mounted heater  دفاية",
+    "price": 22,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15291054-240x180.jpeg",
+    "location": "Bourj Hammoud",
+    "categoryId": 162,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 22
+    }
+  },
+  {
+    "id": "116687638",
+    "title": "gas water heater 10L سخان مياه غاز",
+    "price": 85,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15676396-240x180.jpeg",
+    "location": "Bourj Hammoud",
+    "categoryId": 162,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 85
+    }
+  },
+  {
+    "id": "114933459",
+    "title": "Gas & electric heater general مع ساعة غاز ايطالية",
+    "price": 65,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/13255669-240x180.jpeg",
+    "location": "Sin El Fil",
+    "categoryId": 162,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 65
+    }
+  },
+  {
+    "id": "116680606",
+    "title": "BRAND NEW HP VICTUS CORE I7 GENERATION 13H RTX 5060 1 TERRA NVME",
+    "price": 1170,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15641640-240x180.jpeg",
+    "location": "Adlieh",
+    "categoryId": 175,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 1170
+    }
+  },
+  {
+    "id": "116707105",
+    "title": "DELL INSPIRON 15 7567 CORE i7-7700HQ GTX 1050 Ti 15.6\" 4K GAMING",
+    "price": 399,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15774034-240x180.jpeg",
+    "location": "Chiyah",
+    "categoryId": 175,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 399
+    }
+  },
+  {
+    "id": "116711350",
+    "title": "MICROSOFT SURFACE PRO 7 CORE i5-1035G4 12.3\" PIXELSENSE TOUCH",
+    "price": 399,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15796251-240x180.jpeg",
+    "location": "Chiyah",
+    "categoryId": 175,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 399
+    }
+  },
+  {
+    "id": "116698707",
+    "title": "NEC VERSA PRO INTEL DC 12|\" FLIP TOUCH SCREEN LAPTOP",
+    "price": 99,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15731626-240x180.jpeg",
+    "location": "Chiyah",
+    "categoryId": 175,
+    "categorySlug": "",
+    "createdAt": "2025-12-24T08:36:10.000Z",
+    "attributes": {
+      "price": 99
+    }
+  },
+  {
+    "id": "116684991",
+    "title": "Jeep Grand Cherokee Limited 2017 NO ACCIDENTS",
+    "price": 22800,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15663204-240x180.jpeg",
+    "location": "Sabtieh, Metn",
+    "categoryId": 23,
+    "categorySlug": "cars-for-sale",
+    "createdAt": "2025-12-01T18:34:28.000Z",
+    "attributes": {
+      "mileage": "88,000 km",
+      "year": "2017",
+      "transmission": "Automatic"
+    }
+  },
+  {
+    "id": "116455026",
+    "title": "XIAOMIi SU7 2025 2WD 700KM Range 5.28S 0to100",
+    "price": 52500,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/14491417-240x180.jpeg",
+    "location": "Dbaye, Metn",
+    "categoryId": 23,
+    "categorySlug": "cars-for-sale",
+    "createdAt": "2025-12-19T14:07:24.000Z",
+    "attributes": {
+      "mileage": "0 km",
+      "year": "2025",
+      "fuel": "Electric"
+    }
+  },
+  {
+    "id": "116714585",
+    "title": "Land Rover Range Rover Sport 2019",
+    "price": 53000,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15813020-240x180.jpeg",
+    "location": "Jdaide, Metn",
+    "categoryId": 23,
+    "categorySlug": "cars-for-sale",
+    "createdAt": "2025-12-23T11:20:46.000Z",
+    "attributes": {
+      "mileage": "60,000 km",
+      "year": "2019",
+      "transmission": "Steptronic"
+    }
+  },
+  {
+    "id": "116694803",
+    "title": "Mercedes-Benz GLC-Class 2019 AMG Line",
+    "price": 31000,
+    "currency": "USD",
+    "imageUrl": "https://images.olx.com.lb/thumbnails/15590633-240x180.jpeg",
+    "location": "Beirut",
+    "categoryId": 23,
+    "categorySlug": "cars-for-sale",
+    "createdAt": "2025-12-24T16:07:38.058Z",
+    "attributes": {
+      "mileage": "92,000 km",
+      "year": "2019",
+      "condition": "Clean Carfax"
+    }
+  }
+]

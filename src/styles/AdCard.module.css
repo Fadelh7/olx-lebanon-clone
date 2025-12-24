@@ -1,0 +1,131 @@
+.card {
+    background-color: var(--color-white);
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid var(--color-gray-200);
+    transition: box-shadow var(--transition-fast);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    min-height: 320px;
+    /* Fixed minimum height */
+}
+
+.card:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.imageContainer {
+    position: relative;
+    width: 100%;
+    height: 160px;
+    /* Fixed height for all images */
+    background-color: #f0f0f0;
+}
+
+.adImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.placeholderImg {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e9e9e9;
+    color: #999;
+}
+
+.placeholderImg span {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.wishlistBtn {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-primary);
+    transition: transform 0.2s;
+}
+
+.wishlistBtn:hover {
+    transform: scale(1.1);
+    background: var(--color-white);
+}
+
+.content {
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--color-text-main);
+    margin-bottom: 4px;
+}
+
+.title {
+    font-size: 14px;
+    color: var(--color-text-main);
+    line-height: 1.4;
+    height: 2.8em;
+    /* Exactly 2 lines */
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    /* Compatibility */
+    -webkit-box-orient: vertical;
+    margin-bottom: 8px;
+}
+
+.details {
+    display: flex;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    margin-bottom: 12px;
+    height: 1.2em;
+    /* Fixed height for one line of details */
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.details span:not(:last-child)::after {
+    content: "•";
+    margin-left: 8px;
+    color: var(--color-gray-200);
+}
+
+.footer {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 11px;
+    color: var(--color-text-secondary);
+    text-transform: uppercase;
+}
+
+.location {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 60%;
+}
